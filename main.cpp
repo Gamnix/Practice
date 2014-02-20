@@ -15,7 +15,7 @@ int main()
     cout << "Multipication Table" << endl;
     cout << "Enter number to find the multiplication table" <<endl ;
     cin >> a;
-    
+    // changes made for github
     for(i=1 ;i<=10 ;i++)
     {
         product = (a * i);
